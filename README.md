@@ -245,14 +245,6 @@ graph TB
 
 ---
 
-## 🌟 **Client Testimonials**
-
-<div align="center">
-
-
-</div>
-
----
 
 ## 🌐 **Get Started Today**
 
